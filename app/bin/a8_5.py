@@ -14,7 +14,7 @@ if __name__ == '__main__':
     for w in fread:
         if not w.startswith("From:"): continue
         count = count + 1
-        words = w.split()
+        words = w.split("@")
         print(words[1])
 
 
