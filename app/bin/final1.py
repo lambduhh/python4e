@@ -20,9 +20,6 @@ def larger(l):
             maxx = p
     return maxx
 
-
-if __name__ == '__main__':
-
     alist = []
 
     while True:
@@ -34,6 +31,8 @@ if __name__ == '__main__':
         except ValueError:
             print("try again :( ")
 
+
+if __name__ == '__main__':
     sml = smaller(alist)
     lg = larger(alist)
     print("Minimum is ", sml)

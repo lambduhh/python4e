@@ -7,14 +7,12 @@
 
 from app.lib.greetingsearthlings import openbyline
 
+fname = open("mbox-short.txt", "r")
+fread = fname.readlines()
+count = 0
+for w in fread:
+    if not w.startswith("From:"): continue
+    count = count + 1
+    words = w.split("@")
 if __name__ == '__main__':
-    fname = open("mbox-short.txt", "r")
-    fread = fname.readlines()
-    count = 0
-    for w in fread:
-        if not w.startswith("From:"): continue
-        count = count + 1
-        words = w.split("@")
-        print(words[1])
-
-
+    print(words[1])

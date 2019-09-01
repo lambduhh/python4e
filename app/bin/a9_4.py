@@ -6,22 +6,21 @@
 # to a count of the number of times they appear in the file. After the dictionary is produced,
 # the program reads through the dictionary using a maximum loop to find the most prolific committer.
 
+fname = open("mbox-short.txt", "r")
+fread = fname.readlines()
+
+counts = dict()
+for w in fread:
+    if not w.startswith("From:"): continue
+    words = w.split()
+    emails = words[1]
+    counts[emails] = counts.get(emails, 0) + 1
+
+bigwerd = None
+bigcount = None
+for k, v in counts.items():
+    if bigcount is None or v > bigcount:
+        bigwerd = k
+        bigcount = v
 if __name__ == '__main__':
-    fname = open("mbox-short.txt", "r")
-    fread = fname.readlines()
-
-    counts = dict()
-    for w in fread:
-        if not w.startswith("From:"): continue
-        words = w.split()
-        emails = words[1]
-        counts[emails] = counts.get(emails, 0) + 1
-
-
-    bigwerd = None
-    bigcount = None
-    for k, v in counts.items():
-        if bigcount is None or v > bigcount:
-            bigwerd = k
-            bigcount = v
     print(bigwerd, bigcount)

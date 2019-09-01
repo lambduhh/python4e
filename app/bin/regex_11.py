@@ -4,16 +4,16 @@
 
 import re
 
+fname = open("regex.data.txt", "r")
+fread = fname.readlines()
+su = 0
+for l in fread:
+    words = l.split()
+    for num in words:
+        m = re.findall('[0-9]+', num)
+        if m:
+            for n in m:
+                n = int(n)
+                su = n + su
 if __name__ == '__main__':
-    fname = open("regex.data.txt", "r")
-    fread = fname.readlines()
-    su = 0
-    for l in fread:
-        words = l.split()
-        for num in words:
-            m = re.findall('[0-9]+', num)
-            if m:
-                for n in m:
-                    n = int(n)
-                    su = n + su
     print(su)

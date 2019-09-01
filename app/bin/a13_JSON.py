@@ -14,4 +14,5 @@ with urllib.request.urlopen("http://py4e-data.dr-chuck.net/comments_200771.json"
         countnum = int(item['count'])
         addtolist = numlist.append(countnum)
         s = sum(numlist)
-        print(s)
+if __name__ == '__main__':
+    print(s)

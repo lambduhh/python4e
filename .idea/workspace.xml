@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="86e30b85-1576-49a0-ab27-62065b858020" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a10_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a13_JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a13_JSON.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a13_JSONgeocode.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a13_JSONgeocode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a13xml_bsoup.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a13xml_bsoup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a8_4_forloops.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a8_4_forloops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a8_4_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a8_4_recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a8_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a8_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/a9_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/a9_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/beautifulsoup_spancount.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/beautifulsoup_spancount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/final1.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/final1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/regex_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/regex_11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,8 +22,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python4e$a9_4.coverage" NAME="a9_4 Coverage Results" MODIFIED="1564092015792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/bin" />
+    <SUITE FILE_PATH="coverage/python4e$a8_4_forloops.coverage" NAME="a8_4_forloops Coverage Results" MODIFIED="1566930632410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/bin" />
+    <SUITE FILE_PATH="coverage/python4e$a9_4.coverage" NAME="a9_4 Coverage Results" MODIFIED="1566929600519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/bin" />
     <SUITE FILE_PATH="coverage/python4e$a15_3sql.coverage" NAME="a15_3sql Coverage Results" MODIFIED="1564096006015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/bin" />
+    <SUITE FILE_PATH="coverage/python4e$a8_4_recursion.coverage" NAME="a8_4_recursion Coverage Results" MODIFIED="1565906881330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/bin" />
     <SUITE FILE_PATH="coverage/python4e$a8_5.coverage" NAME="a8_5 Coverage Results" MODIFIED="1564095439169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/bin" />
   </component>
   <component name="DatabaseView">
@@ -36,29 +49,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/bin/a15_3sql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="-464">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/bin/a8_5.py">
+        <entry file="file://$PROJECT_DIR$/app/bin/beautifulsoup_href.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="-673">
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/bin/a10_.py">
+        <entry file="file://$PROJECT_DIR$/app/bin/beautifulsoup_spancount.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="653">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bin/a13xml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bin/a13xml_bsoup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bin/final1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/bin/regex_11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -66,7 +125,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/bin/mbox.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4749012">
+            <state relative-caret-position="5149755">
               <caret line="132045" selection-start-line="132045" selection-end-line="132045" />
             </state>
           </provider>
@@ -89,16 +148,26 @@
       <list>
         <option value="$PROJECT_DIR$/mbox.txt" />
         <option value="$PROJECT_DIR$/app/bin/mbox.txt" />
-        <option value="$PROJECT_DIR$/app/bin/a8_5.py" />
         <option value="$PROJECT_DIR$/app/bin/a15_3sql.py" />
+        <option value="$PROJECT_DIR$/app/bin/a10_.py" />
+        <option value="$PROJECT_DIR$/app/bin/a8_4_forloops.py" />
+        <option value="$PROJECT_DIR$/app/bin/a8_4_recursion.py" />
+        <option value="$PROJECT_DIR$/app/bin/a8_5.py" />
+        <option value="$PROJECT_DIR$/app/bin/a9_4.py" />
+        <option value="$PROJECT_DIR$/app/bin/a13_JSON.py" />
+        <option value="$PROJECT_DIR$/app/bin/a13_JSONgeocode.py" />
+        <option value="$PROJECT_DIR$/app/bin/a13xml_bsoup.py" />
+        <option value="$PROJECT_DIR$/app/bin/beautifulsoup_spancount.py" />
+        <option value="$PROJECT_DIR$/app/bin/final1.py" />
+        <option value="$PROJECT_DIR$/app/bin/regex_11.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="400" />
-    <option name="y" value="88" />
-    <option name="width" value="1600" />
-    <option name="height" value="1424" />
+    <option name="x" value="765" />
+    <option name="y" value="503" />
+    <option name="width" value="2310" />
+    <option name="height" value="1154" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -108,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a15_3sql">
+  <component name="RunManager" selected="Python.a8_4_forloops">
     <configuration name="a15_3sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python4e" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +236,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/bin/a15_3sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a8_4_forloops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python4e" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/bin/a8_4_forloops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a8_4_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python4e" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/bin/a8_4_recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,9 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.a8_4_forloops" />
+        <item itemvalue="Python.a9_4" />
+        <item itemvalue="Python.a8_4_recursion" />
         <item itemvalue="Python.a15_3sql" />
         <item itemvalue="Python.a8_5" />
-        <item itemvalue="Python.a9_4" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +354,19 @@
       <updated>1560187379837</updated>
       <workItem from="1560187381977" duration="1316000" />
       <workItem from="1564087730111" duration="5759000" />
+      <workItem from="1565371648921" duration="366000" />
+      <workItem from="1565632117972" duration="49000" />
+      <workItem from="1565632486494" duration="81000" />
+      <workItem from="1565715160413" duration="606000" />
+      <workItem from="1565837581445" duration="667000" />
+      <workItem from="1565879523352" duration="2565000" />
+      <workItem from="1565974065670" duration="3000" />
+      <workItem from="1566929478527" duration="150000" />
+      <workItem from="1566930609458" duration="583000" />
+      <workItem from="1566931664608" duration="529000" />
+      <workItem from="1566934144639" duration="598000" />
+      <workItem from="1567025562470" duration="85000" />
+      <workItem from="1567359198638" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1560187775654</created>
@@ -272,17 +400,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7075000" />
+    <option name="totallyTimeSpent" value="14424000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="400" y="88" width="1600" height="1424" extended-state="0" />
+    <frame x="765" y="503" width="2310" height="1154" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38138926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32976973" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,13 +420,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32976973" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32958478" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.113929495" />
+      <window_info anchor="right" id="Database" order="4" weight="0.11359571" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,55 +439,128 @@
     <option name="LAST_COMMIT_MESSAGE" value="fixed file names" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/bin/final1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bin/regex_11.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bin/a9_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mbox.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bin/a10_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bin/mbox-short.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1944" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/bin/a8_4_forloops.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/bin/mbox.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4749012">
+        <state relative-caret-position="5149755">
           <caret line="132045" selection-start-line="132045" selection-end-line="132045" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a10_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a8_4_forloops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a8_4_recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bin/a8_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="624">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a9_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a13_JSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a13_JSONgeocode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a13xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/a13xml_bsoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bin/a15_3sql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="-464">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/beautifulsoup_href.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-673">
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/beautifulsoup_spancount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/final1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bin/regex_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>

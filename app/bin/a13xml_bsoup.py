@@ -21,5 +21,7 @@ for count in tags:
 for val in numlist:
     runtotal = runtotal + val
 
+
+if __name__ == '__main__':
     print('Count', len(numlist))
     print('Sum', runtotal)

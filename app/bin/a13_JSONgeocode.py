@@ -1,4 +1,4 @@
-import json, urllib.request, urllib.parse, urllib.error,ssl
+import json, urllib.request, urllib.parse, urllib.error, ssl
 
 import requests
 
@@ -10,7 +10,7 @@ api_key = False
 if api_key is False:
     api_key = 42
     serviceurl = 'http://py4e-data.dr-chuck.net/json?'
-else :
+else:
     serviceurl = 'https://maps.googleapis.com/maps/api/geocode/json?'
 
 # Ignore SSL certificate errors

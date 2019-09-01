@@ -6,21 +6,21 @@
 # Once you have accumulated the counts for each hour, print out the counts,
 # sorted by hour as shown below
 
+
+fname = open("mbox-short.txt", "r")
+fread = fname.readlines()
+
+counts = dict()
+for w in fread:
+    if not w.startswith("From "): continue
+    words = w.split()
+    time = words[5]
+    hour = time[:2]
+    counts[hour] = counts.get(hour, 0) + 1
+s = (sorted(counts.items()))
+
+for k, v in s:
+    print(k, v)
+
 if __name__ == '__main__':
-
-    fname = open("mbox-short.txt", "r")
-    fread = fname.readlines()
-
-    counts = dict()
-    for w in fread:
-        if not w.startswith("From "): continue
-        words = w.split()
-        time = words[5]
-        hour = time[:2]
-        counts[hour] = counts.get(hour, 0) + 1
-    s = (sorted(counts.items()))
-
-    for k, v in s:
-        print(k, v)
-
-print("Program being edited in a text editor")
+    print("Program being edited in a text editor")
